@@ -1,6 +1,6 @@
 package Controle;
 
-public class SwitchSemCase {
+public class SwitchSemBreak {
 
 	public static void main(String[] args) {
 
