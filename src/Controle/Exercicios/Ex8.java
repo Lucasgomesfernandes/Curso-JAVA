@@ -18,6 +18,17 @@ public class Ex8 {
 			palavra.charAt(i);
 			System.out.println(i + " - " + palavra.charAt(i));
 		}
+		
+		/* Outra opção para o exercicio:
+		System.out.println("Digite a palavra: ");
+		String palavra = scanner.nextLine();
+
+		char letras[] = palavra.toCharArray();
+
+		for (int i = 0; i < letras.length; i++) {
+			System.out.println(letras[i]);
+		}*/
+		
 
 		scanner.close();
 	}
